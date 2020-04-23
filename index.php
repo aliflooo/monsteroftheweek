@@ -52,7 +52,7 @@
 			<div class="row">
 				<div class="col-md-4 animate-box">
 					<div class="item">
-						<img class="img-responsive about-img" src="images/motw.jpg">
+						<img class="img-responsive about-img" src="images/tusk.jpg">
 					</div>
 				</div>
 				<div class="col-md-6 col-md-push-1 animate-box">
@@ -109,7 +109,7 @@
 						<div class="col-md-3 text-center">
 							<div class="article animate-box">
 								<div class="blog-img">
-									<img class="img-responsive about-img" src="images/shattered.png"><br>
+									<img class="img-responsive about-img" src="images/twilight_zone.jpg"><br>
 									<h4>Walkin' On Sunshin</h4>
 								</div>
 							</div>
@@ -118,18 +118,18 @@
 						<div class="col-md-3 text-center">
 							<div class="article animate-box">
 								<div class="blog-img">
-									<img class="img-responsive about-img" src="images/junk.png"><br>
+									<img class="img-responsive about-img" src="images/tusk.jpg"><br>
 									<h4>Amusement Park USA</h4>
 								</div>
 							</div>
 						</div>													
 					</div>
 
-<!-- 					<div class="item">
+ 					<div class="item">
 						<div class="col-md-3 text-center">
 							<div class="article animate-box">
 								<div class="blog-img">
-									<img class="img-responsive about-img" src="images/design.png">
+									<img class="img-responsive about-img" src="images/twilight_zone.jpg">
 									<h4>Centerfold</h4>
 								</div>
 							</div>
@@ -161,9 +161,9 @@
 								</div>
 							</div>
 						</div>
-					</div> -->
+					</div>
 
-					<!-- <div class="item">
+					<div class="item">
 						<div class="col-md-3 text-center">
 							<div class="article animate-box">
 								<div class="blog-img">
@@ -199,9 +199,9 @@
 								</div>
 							</div>
 						</div>
-					</div> -->
+					</div>
 
-				<!-- </div> --> <!-- End of owl-carousel -->
+				</div> <!-- End of owl-carousel -->
 			</div>
 		</div>
 	</div>
